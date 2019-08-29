@@ -2,6 +2,10 @@
 
 Small portable application which notifies you about other people's commits to Subversion repositories.
 
+# Version 2.x Changes 
+
+Improved interface. Refactored code.
+
 # Original Source and Developers
 
   http://svnnotifier.tigris.org/
