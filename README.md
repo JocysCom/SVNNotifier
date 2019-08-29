@@ -6,12 +6,12 @@ Small portable application which notifies you about other people's commits to Su
 
 Improved interface. Refactored code.
 
-# Original Source and Developers
+## Original Source and Developers
 
   http://svnnotifier.tigris.org/
   Developers: Vlad Rudenko, Aleksej Vaschenko, Nikolaj Nahimov.
 
-# Description
+## Description
 
 SVN Notifier is a simple and useful tool to monitor your Subversion project repositories for changes. SVN Notifier notifies you about other people's recent commits to repository and helps you keep your local copy up to date. You can review all the changes and update your local copy right from the application. This tool greatly helps agile teams with continuous integration.
 
@@ -22,7 +22,7 @@ This software has been developed for internal use at CHD Ltd (www.chd.lv). But a
 
 SVN Notifier is free software for both personal and commercial use.
 
-# Screenshots
+## Screenshots
 
 ![https://raw.githubusercontent.com/JocysCom/SVNNotifier/master/SVN_Notifier/Documents/Screenshots/SVN_Notifier_Files.png](https://raw.githubusercontent.com/JocysCom/SVNNotifier/master/SVN_Notifier/Documents/Screenshots/SVN_Notifier_Files.png)
 
