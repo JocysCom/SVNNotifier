@@ -17,10 +17,9 @@ Improved interface. Refactored code.
 
 SVN Notifier is a simple and useful tool to monitor your Subversion project repositories for changes. SVN Notifier notifies you about other people's recent commits to repository and helps you keep your local copy up to date. You can review all the changes and update your local copy right from the application. This tool greatly helps agile teams with continuous integration.
 
-SVN Notifier is tightly integrated with TortoiseSVN. It implements "monitoring/notification" feature only (that is missing in TortoiseSVN) and thus has very simple user interface.
-All TortoiseSVN features are easy accessible by double clicking on monitored item.
+SVN Notifier is tightly integrated with TortoiseSVN. It implements "monitoring/notification" feature only (that is missing in TortoiseSVN) and thus has very simple user interface. All TortoiseSVN features are easy accessible by double clicking on monitored item.
 
-This software has been developed for internal use at CHD Ltd (www.chd.lv). But as it is not related to company's main business (retail solutions, cash registers, etc.) the company gave us permission to release SVN Notifier under GNU License to support the open source community.
+This software has been developed for internal use at CHD Ltd (www.chd.lv). But as it is not related to company's main business (retail solutions, cash registers, etc.) the company gave permission to original developers to release SVN Notifier under GNU License to support the open source community.
 
 SVN Notifier is free software for both personal and commercial use.
 
