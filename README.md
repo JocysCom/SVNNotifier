@@ -5,7 +5,7 @@ Small portable application which notifies you about other people's commits to Su
 
 ## Version 2.x Changes 
 
-Improved interface. Refactored code.
+Improved old interface and refactored the code (see screenshots below).
 
 ## Original Source and Developers
 
