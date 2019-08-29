@@ -9,7 +9,8 @@ Improved interface. Refactored code.
 
 ## Original Source and Developers
 
-  http://svnnotifier.tigris.org/
+  http://svnnotifier.tigris.org
+  
   Developers: Vlad Rudenko, Aleksej Vaschenko, Nikolaj Nahimov.
 
 ## Description
