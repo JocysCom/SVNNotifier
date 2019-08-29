@@ -5,7 +5,7 @@ Small and portable application which notifies you about other people's commits t
 
 ## Version 2.x Changes 
 
-Improved old interface and refactored the code (see screenshots below).
+Improved old interface and refactored the code (see new screenshots below).
 
 ## Original Source and Developers
 
