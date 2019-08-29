@@ -1,7 +1,7 @@
 # SVN Notifier • [Download](https://github.com/JocysCom/SVNNotifier/releases/download/2.0.6.0/SVN_Notifier.exe)
  * SVN Notifier 2.0.6.0 (2019-08-30) • Digitally Signed • Freeware
 
-Small portable application which notifies you about other people's commits to Subversion repositories.
+Small and portable application which notifies you about other people's commits to Subversion repositories.
 
 ## Version 2.x Changes 
 
