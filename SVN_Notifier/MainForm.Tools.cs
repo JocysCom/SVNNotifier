@@ -153,10 +153,10 @@ namespace CHD.SVN_Notifier
 			for (int i = 0; i < ItemListView.Rows.Count; i++)
 			{
 				var viewRow = ItemListView.Rows[i];
-				var item = (ListViewItem)viewRow.DataBoundItem;
-				if (item.Text == path)
+				var item = (SvnItem)viewRow.DataBoundItem;
+				if (item.Path == path)
 				{
-					item.Selected = true;
+					viewRow.Selected = true;
 					break;
 				}
 			}
