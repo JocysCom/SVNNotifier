@@ -679,7 +679,6 @@
 			this.ColumnVisiblePath.HeaderText = "Visible Path";
 			this.ColumnVisiblePath.Name = "ColumnVisiblePath";
 			this.ColumnVisiblePath.Visible = false;
-			this.ColumnVisiblePath.Width = 5;
 			// 
 			// PathColumn
 			// 
